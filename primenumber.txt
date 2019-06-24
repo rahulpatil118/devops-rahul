@@ -1,0 +1,16 @@
+public class Patt
+{	public static void main(String[] args)
+ 	{
+		int x ,y ;
+	for(x=0;x<=5;x++)
+	{
+		for(y=0;x>y;y++)
+		{	
+			System.out.println("*");
+		}
+	}
+
+
+}
+
+}
